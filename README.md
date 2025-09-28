@@ -28,9 +28,13 @@ Java学習課題として作成した販売管理システム。顧客・社員�
 
 ## ディレクトリ構成
 src/main/java/jsys/sales/...
+
 ├── dao # DBアクセス層
+
 ├── entity # エンティティ
+
 ├── logic # ビジネスロジック
+
 └── web # コントローラ（FrontControllerなど）
 
 
